@@ -1,4 +1,4 @@
-const ACCESS_TKN = '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';
+const ACCESS_TKN = config.ACCESS_TKN;
 const url = 'https://api.github.com/users/impriyashankar';
 
 const ua = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36';
