@@ -11,8 +11,7 @@
 
 
 ## General Information
-The app uses Github API to display user information.
-
+The app makes request to Github's REST Endpoints to display user information.
 
 ## Technologies Used
 - HTML
