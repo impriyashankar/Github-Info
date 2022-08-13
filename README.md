@@ -1,5 +1,5 @@
 
-# Github info 
+# Github info  
 > A simple app to display information from Github profile. 
 > Live demo [_here_](https://impriyashankar.github.io/Github-Info/).
 
